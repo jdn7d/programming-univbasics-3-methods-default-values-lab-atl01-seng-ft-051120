@@ -4,5 +4,5 @@ def meal_choice(veg1, veg2, protein= "tofu")
   
 end  # Your code here
 
-meal_choice('broccoli', 'macaroni', 'lentils')
+meal_choice('broccoli', 'macaroni')
 # For output purposes, use "puts" instead of "print" or "p"
